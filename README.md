@@ -17,13 +17,13 @@ https://luqxcz.github.io/simply-recipes/
 
 ## Large Screen
 ### Homepage 
-![Homepage](./screenshots/large-screen/index.png?raw=true "HomePage")
+![Homepage](/screenshots/pages/large-screeen/index.png?raw=true "HomePage")
 
 ### About Page
-![About](./screenshots/large-screen/about.png?raw=true "about page")
+![About](/screenshots/pages/large-screeen/about.png?raw=true "about page")
 
 ### Tags Page
-![Tags](./screenshots/large-screen/tags.png?raw=true "tags page")
+![Tags](./screenshots/pages/large-screen/tags.png?raw=true "tags page")
 
 ### Recipes Page
 ![Recipes](./screenshots/large-screen/recipes.png?raw=true "recipes page")
